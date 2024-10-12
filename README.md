@@ -1,4 +1,6 @@
-```Mermaid
+Diagrama Entidade Relacionamento de uma Agência de Viagens básica para o desafio de código Dio bootcamp.
+
+```mermaid
 classDiagram
 
     class Cliente {
